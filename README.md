@@ -11,7 +11,6 @@ Written using Python 3.7.8  To run using python, you must install wxPython.
 ```bash
 pip install wxpython
 ```
-Alternatively, you can download and run the standalone executable on Windows.
 
 Very detailed usage example:
 
@@ -24,7 +23,7 @@ Joe can now start CWST Client with "Remote CWST server" host as Steve's external
 Once Steve and Joe both click "Start Server," Steve can use his client app to connect to localhost:1234 on his machine and the traffic will be forwarded to Steve's server.
 
 ## Author
-This program was written by 
+This program was written by Nicholas Zivkovic
 
 ## Disclaimer
 This is not a secure way of transmitting information because there is no encryption.  Please do not use this with any sensitive information.
